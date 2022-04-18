@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Forecasting-Healthy-Futures.github.io/homepage/homepage/blog</id>
-    <title>FORECASTING HEALTHY FUTURES Blog</title>
+    <title>IMACS - Institute for Malaria and Climate Solutions Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Forecasting-Healthy-Futures.github.io/homepage/homepage/blog"/>
-    <subtitle>FORECASTING HEALTHY FUTURES Blog</subtitle>
+    <subtitle>IMACS - Institute for Malaria and Climate Solutions Blog</subtitle>
     <icon>https://Forecasting-Healthy-Futures.github.io/homepage/homepage/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
