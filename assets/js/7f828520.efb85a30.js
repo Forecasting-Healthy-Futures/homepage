@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[592],{6593:function(e){e.exports=JSON.parse('{"allTagsPath":"/homepage/blog/tags","name":"digital health","count":1,"permalink":"/homepage/blog/tags/digital-health"}')}}]);
